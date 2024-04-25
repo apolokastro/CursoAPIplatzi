@@ -1,0 +1,11 @@
+{
+  "name": "cursoapiplatzi",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de apis",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
